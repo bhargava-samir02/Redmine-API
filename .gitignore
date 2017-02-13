@@ -1,0 +1,12 @@
+*.iml
+.gradle
+.idea
+build
+target
+bin
+
+/.settings/**
+/.classpath
+/.project
+/.settings
+/.nb-gradle/**
